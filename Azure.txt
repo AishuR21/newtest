@@ -1,0 +1,10 @@
+Azure vm is one of the several types of on-demand, scalalble computing resources that azure offers.
+An azure vm gives you felxibility of virtualization without having to buy and maintain the physical hardware that runs it.
+However, still need to maintain the vm by performing tasks such as configuring, patching and installing the software that runs on it.
+Azure container instance are becomig the preferred way to package, deploy and manage cloud applications.
+Offers the fastest and simplest way to run a container in azure, without having to manage any virtual machines and without having to adopt a higher-level service.
+it is a great solution for any scenario including simle apps, task automation, and build jobs.
+Azure active directory is Microsoft's cloud-based identity and access management service.
+
+
+S3, ec2
